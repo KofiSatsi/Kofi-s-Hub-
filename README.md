@@ -1,2 +1,2 @@
 # Kofi-s-Hub- 
-This repository for testing RStudio 
+This repository is for testing RStudio 
